@@ -2,3 +2,4 @@ this is a file
 local changes
 are made
 
+changed lines[D[D[D[D[Dor added 
